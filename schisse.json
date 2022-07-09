@@ -1,0 +1,37 @@
+{
+	"games" : [
+		{
+		    "questions" : [
+		        {
+		            "question" : " In how many many layers consists The JDBC  interface ?",
+		            "content" : [
+		                "2",
+		                "3",
+		                "5",
+		                "4"
+		            ],
+		            "correct" : 0
+		        },
+		        {
+		            "question" : " How was concieved JDBC at the Beginning?",
+		            "content" : [
+		                "Costumer-sde API",
+		                "Server-side API",
+		                "Client-side API",
+		                "User-side API"
+		            ],
+		            "correct" : 2
+		        },
+		        {
+		            "question" : "When does JDBC was release ?",
+		            "content" : [
+		                "1991",
+		                "2011",
+		                "2001",
+		                "1997"
+		            ],
+		            "correct" : 3
+		        },
+		       
+	]
+}
